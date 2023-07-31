@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-    <div>Hola</div>
+    <div>Hola </div>
     <Menu></Menu>
     </>
   )
